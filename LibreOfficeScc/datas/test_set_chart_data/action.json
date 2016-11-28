@@ -1,0 +1,21 @@
+[{
+        "name": "GraphSalBySexe",
+        "value": {
+            "datas": [
+                [
+                    224
+                ],
+                [
+                    190
+                ]
+            ],
+            "cols": [
+                ""
+            ],
+            "rows": [
+                "Femme",
+                "Homme"
+            ]
+        },
+        "action": "SET_CHART_DATA"
+    }]

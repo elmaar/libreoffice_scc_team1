@@ -1,0 +1,17 @@
+[{"name": "MonTableau",
+	"value": {
+		"withLeftBorder": true,
+		"nbRows": 1,
+		"aroundBorderOnly": false,
+		"rightMargin": 0,
+		"split": true,
+		"withRightBorder": true,
+		"breakBefore": false,
+		"keepTogether": false,
+		"withTopBorder": true,
+		"leftMargin": 0,
+		"nbColumns": 1,
+		"withBottomBorder": true
+	},
+	"action": "CREATE_TABLE"
+}]

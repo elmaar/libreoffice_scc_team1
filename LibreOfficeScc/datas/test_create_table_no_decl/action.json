@@ -1,0 +1,8 @@
+[{"name":"timeout","value":161,"action":14}
+,{"name":"applName","value":"DonneesSociales","action":15}
+,{"name":"utilrLogin","value":"baudin","action":16}
+,{"name":"outputFormat","value":"odt","action":13}
+,{"name":"title","action":0,"value":"Liste organismes"}
+,{"name":"Organisme_1"
+,"value":{"withLeftBorder":true,"nbRows":8,"aroundBorderOnly":true,"rightMargin":0,"split":true,"withRightBorder":true,"breakBefore":false,"keepTogether":false,"withTopBorder":true,"leftMargin":0,"nbColumns":2,"withBottomBorder":true},"action":3}
+]

@@ -1,0 +1,5 @@
+[{
+	"name": "outputFormat",
+	"value": "odt",
+	"action": SAVE_FORMAT_DOCUMENT
+}]

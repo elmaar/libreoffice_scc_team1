@@ -1,0 +1,5 @@
+[{
+        "name":"TabSalBySexe",
+        "action":"DELETE_TABLE_ROWS",
+        "value":4
+    }]

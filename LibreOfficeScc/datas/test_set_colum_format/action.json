@@ -1,0 +1,5 @@
+[
+,{"name":"Organisme_1"
+,"value":{"withLeftBorder":true,"nbRows":8,"aroundBorderOnly":true,"rightMargin":0,"split":true,"withRightBorder":true,"breakBefore":false,"keepTogether":false,"withTopBorder":true,"leftMargin":0,"nbColumns":2,"withBottomBorder":true},"action":"CREATE_TABLE"}
+,{"name":"Organisme_1","value":{"col":1,"width":10},"action":"SET_COLUM_FORMAT"}
+]
